@@ -6,3 +6,4 @@ Animated upside down plot from stranger things move using JavaScript
 ## Technologies used
 
 * HTML
+* CSS
